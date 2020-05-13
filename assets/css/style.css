@@ -88,3 +88,7 @@ body {
     font-size: xx-small;
     padding: 10px;
 }
+
+#contact-section {
+    height: 400px;
+}
