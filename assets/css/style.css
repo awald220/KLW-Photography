@@ -50,10 +50,12 @@ body {
 
 #about {
     width: 50%;
+    height: 100%;
     margin: 1%;
     text-align: center;
     color: #585E61;
     font-weight: 700;
+    font-size: small;
 }
 
 #about h3 {
@@ -75,7 +77,7 @@ body {
     margin-top: 35%;
     margin-bottom: 0;
     background-color: #F2F3F4;
-    height: 150px;
+    height: 250px;
 }
 
 #footer h3 {
@@ -85,10 +87,11 @@ body {
 }
 
 #footer p {
-    font-size: xx-small;
-    padding: 10px;
+    font-size: small;
 }
 
-#contact-section {
-    height: 400px;
+#copywrite {
+    font-size: xx-small;
+    padding: 10px;
+    margin-top: 1%;
 }
